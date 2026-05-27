@@ -15,16 +15,7 @@ This Maven `pom.xml` file defines the build configuration for a Java project nam
 
 **4. Detailed Documentation:**
 
-   - **Project Metadata:**
-     - **Description:** Defines basic information about the project, including its group ID (`org.example`), artifact ID (`demo_project`), and version (`1.0-SNAPSHOT`). These identifiers uniquely identify the project within a repository or build system.
-     - **Parameters:** `groupId`, `artifactId`, `version` - Strings representing the project's metadata.
 
-   - **Properties:**
-     - **Description:** Sets various properties used throughout the build process. 
-     - **Parameters:**  
-       - `maven.compiler.source`: Specifies the Java source code version (21 in this case).
-       - `maven.compiler.target`: Defines the target Java bytecode version (also 21).
-       - `project.build.sourceEncoding`: Sets the character encoding for source files to UTF-8.
 
 **5. Language Version:** Java 21
 

@@ -15,23 +15,6 @@ This Java program greets a user by name. It prompts the user to enter their name
 
 **4. Detailed Documentation:**
 
-   - **`helloUser(String name)`:**
-     - **Description:** This function takes a user's name as input and returns a greeting message formatted as "Hello [name]!".
-     - **Parameters:** `name`: A string representing the user's name.
-     - **Return Values:** A string containing the personalized greeting message.
-     - **Important Logic:** Concatenates the strings "Hello ", the provided `name`, and "!" to create the greeting message.
-
-   - **`main(String[] args)`:**
-     - **Description:** This is the entry point of the program. It initializes a `Scanner` object to read user input, prompts the user for their name, reads the input, calls the `helloUser` function to generate the greeting, and prints the result to the console.
-     - **Parameters:** `args`: An array of strings representing command-line arguments (not used in this program).
-     - **Return Values:** None.
-     - **Important Logic:**
-       - Creates a `Scanner` object to read input from the standard input stream (`System.in`).
-       - Prints a prompt message asking the user to enter their name.
-       - Reads the user's input using `scanner.nextLine()` and stores it in the `name` variable.
-       - Calls the `helloUser` function with the `name` as an argument and prints the returned greeting message.
-       - Closes the `Scanner` object to release resources.
-
 **5. Key Variables and Data Structures:**
 
    - **`name` (String):** Stores the user's name entered through the console.

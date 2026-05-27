@@ -18,19 +18,7 @@ This Java program implements the classic "FizzBuzz" programming challenge. It it
 
 **3. Class/file name:** FizzBuzz.java
 
-**4. Detailed Documentation:**
 
-   - **`main(String[] args)`:**
-     - **Description:** This is the entry point of the program. It initializes a loop to iterate through numbers from 1 to 20 and calls conditional statements to determine the output for each number.
-     - **Parameters:** `args`: An array of strings representing command-line arguments (not used in this program).
-     - **Return Values:** None.
-     - **Important Logic:**
-       - Uses a `for` loop to iterate from `i = 1` to `i <= 20`.
-       - Inside the loop, it checks for divisibility by 3 and 5 using the modulo operator (`%`).
-       - If divisible by both 3 and 5, prints "FizzBuzz".
-       - If divisible by only 3, prints "Fizz".
-       - If divisible by only 5, prints "Buzz".
-       - Otherwise, prints the current value of `i`.
 
 **5. Pseudo Code:**
 

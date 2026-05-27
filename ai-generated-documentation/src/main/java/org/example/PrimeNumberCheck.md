@@ -15,22 +15,7 @@ This Java program determines whether a given integer is a prime number. A prime 
 
 **4. Detailed Documentation:**
 
-   - **`isPrime(int n)`:**
-     - **Description:** This function checks if a given integer `n` is a prime number.
-     - **Parameters:** `n`: The integer to be checked for primality.
-     - **Return Values:** Returns `true` if `n` is a prime number, `false` otherwise.
-     - **Important Logic:**
-       - Handles the base cases: If `n` is less than or equal to 1, it returns `false` as 1 and numbers less than 1 are not prime.
-       - Iterates from 2 up to the square root of `n`. For each number `i` in this range, it checks if `n` is divisible by `i`. If it finds a divisor, it immediately returns `false` because `n` is not prime.
-       - If the loop completes without finding any divisors, it means `n` is only divisible by 1 and itself, hence it's a prime number, and the function returns `true`.
 
-   - **`main(String[] args)`:**
-     - **Description:** This is the entry point of the program. It calls the `isPrime()` function to check if the number 11 is prime and prints the result.
-     - **Parameters:** `args`: An array of strings representing command-line arguments (not used in this program).
-     - **Return Values:** None.
-     - **Important Logic:**
-       - Calls `isPrime(11)` to check if 11 is a prime number.
-       - Prints the result returned by `isPrime(11)` using `System.out.println()`.
 
 **5. Key Variables and Data Structures:**
 

@@ -13,18 +13,6 @@ This Java program finds the maximum value within a given integer array. It itera
 
 **3. Class/file name:** FindMaxInArray.java
 
-**4. Detailed Documentation:**
-
-   - **`main(String[] args)`:**
-     - **Description:** This is the main method of the program, where execution begins. It initializes an integer array, finds the maximum value within the array, and prints the result.
-     - **Parameters:** `args`: An array of strings representing command-line arguments (not used in this program).
-     - **Return Values:** None.
-     - **Important Logic:**
-       - Initializes an integer array `arr` with sample values.
-       - Sets the initial maximum value (`max`) to the first element of the array.
-       - Iterates through each element (`n`) in the array using a for-each loop.
-       - For each element, it compares `n` with the current `max`. If `n` is greater than `max`, `max` is updated to `n`.
-       - After iterating through all elements, prints the final value of `max`, which represents the maximum value found in the array.
 
 **5. Pseudo Code:**
 
