@@ -7,7 +7,6 @@
 
 **1. Overview:**
 
-This Maven `pom.xml` file defines the build configuration for a Java project named "demo_project". It specifies project metadata, compiler settings, source encoding, and other essential information required for building and managing the project using Maven.
 
 **2. Build Tool:** Maven
 

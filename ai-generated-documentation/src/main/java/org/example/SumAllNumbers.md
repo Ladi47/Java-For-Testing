@@ -7,7 +7,6 @@
 
 **1. Overview:**
 
-This Java program calculates the sum of all integers from 1 to a user-specified number. It takes an integer input from the user, iterates through the numbers from 1 to the input value, and accumulates their sum. Finally, it prints the calculated sum to the console.
 
 **2. Package/module name:** org.example
 

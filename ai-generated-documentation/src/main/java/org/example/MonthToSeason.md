@@ -5,9 +5,6 @@
 ---
 ## MonthToSeason.java Documentation
 
-**1. Overview:**
-
-This Java program takes a month number as input from the user and determines the corresponding season. It uses a `switch` statement to map the month number to its respective season category (Winter, Spring, Summer, Autumn). If an invalid month number is entered, it displays an "Invalid month number" message.
 
 **2. Package/module name:** org.example
 

@@ -5,10 +5,6 @@
 ---
 ## Palindrome.java Documentation
 
-**1. Overview:**
-
-This Java program determines whether a given word is a palindrome. A palindrome is a word or phrase that reads the same backward as forward (e.g., "level", "racecar"). The program takes a string input and compares each character from the beginning and end of the string, moving inwards. If any pair of characters doesn't match, it concludes the word is not a palindrome.
-
 **2. Package/module name:** org.example
 
 **3. Class/file name:** Palindrome.java

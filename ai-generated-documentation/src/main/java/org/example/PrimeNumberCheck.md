@@ -7,8 +7,6 @@
 
 **1. Overview:**
 
-This Java program determines whether a given integer is a prime number. A prime number is a whole number greater than 1 that has only two divisors: 1 and itself. The program utilizes a simple primality test algorithm to check for divisibility by numbers up to the square root of the input integer.
-
 **2. Package/module name:** org.example
 
 **3. Class/file name:** PrimeNumberCheck.java
