@@ -42,33 +42,6 @@ This Java program takes a month number as input from the user and determines the
 
 
 
-**7. Pseudo Code:**
-
-
-
-```
-// Class: MonthToSeason
-
-// Method: main(String[] args)
-  1. Create a Scanner object to read input from the console.
-  2. Print a message prompting the user to enter a month number.
-  3. Read the user's input using the Scanner object and store it in the 'month' variable.
-  4. Check the value of 'month':
-    - If 'month' is 12, 1, or 2:
-      - Print "Season: Winter"
-    - If 'month' is 3, 4, or 5:
-      - Print "Season: Spring"
-    - If 'month' is 6, 7, or 8:
-      - Print "Season: Summer"
-    - If 'month' is 9, 10, or 11:
-      - Print "Season: Autumn"
-    - Otherwise:
-      - Print "Invalid month number"
-  5. Close the Scanner object to release resources.
-
-
-
-```
 
 
 

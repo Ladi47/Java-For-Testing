@@ -35,24 +35,6 @@ This Java program implements the classic "FizzBuzz" programming challenge. It it
 **5. Pseudo Code:**
 
 
-```
-// Class: FizzBuzz
-
-// Method: main(String[] args)
-  1. Initialize a loop counter 'i' to 1.
-  2. Loop while 'i' is less than or equal to 20:
-     - Check if 'i' is divisible by both 3 and 5 (i % 3 == 0 && i % 5 == 0):
-       - If true, print "FizzBuzz".
-     - Check if 'i' is divisible by 3 (i % 3 == 0):
-       - If true, print "Fizz".
-     - Check if 'i' is divisible by 5 (i % 5 == 0):
-       - If true, print "Buzz".
-     - Otherwise, print the value of 'i'.
-     - Increment 'i' by 1.
-
-
-
-```
 
 **Dependencies and Libraries:**
 

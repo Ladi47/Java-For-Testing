@@ -45,21 +45,6 @@ This Java program determines whether a given integer is a prime number. A prime 
 
 **7. Pseudo Code:**
 
-```
-// Class: PrimeNumberCheck
 
-// Method: isPrime(n)
-  1. If n <= 1, return false.
-  2. For i = 2 to the square root of n:
-    - If n % i == 0, return false.
-  3. Return true.
-
-// Method: main()
-  1. Call isPrime(11).
-  2. Print the result returned by isPrime(11).
-
-
-
-```
 
 

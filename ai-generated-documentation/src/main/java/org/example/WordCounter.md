@@ -37,19 +37,6 @@ This Java program counts the number of words in a given sentence. It takes a str
 
 **7. Pseudo Code:**
 
-```
-// Class: WordCounter
-
-// Method: main()
-  1. Define a string variable "sentence" with the input text.
-  2. Remove leading and trailing whitespace from "sentence" using trim().
-  3. Split "sentence" into an array of strings "words" based on one or more whitespace characters.
-  4. Print the length of the "words" array, representing the word count. 
-
-
-
-```
-
 
 
 

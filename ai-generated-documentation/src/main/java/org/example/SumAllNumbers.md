@@ -41,13 +41,7 @@ This Java program calculates the sum of all integers from 1 to a user-specified 
 ```
 // Class: SumAllNumbers
 
-// Method: main()
-  1. Create a Scanner object to read from the console.
-  2. Prompt the user to enter an integer and store it in variable "n".
-  3. Initialize a variable "sum" to 0.
-  4. Iterate from 1 to "n":
-    - Add the current loop counter (i) to "sum".
-  5. Print the value of "sum".
+
 
 
 
