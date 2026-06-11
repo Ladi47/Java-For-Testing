@@ -5,15 +5,15 @@
 ---
 ## FindMaxInArray.java Documentation
 
-**1. Overview:**
+Overview:
 
 This Java program finds the maximum value within a given integer array. It iterates through each element of the array, comparing it to the current maximum value. If a larger element is found, the maximum value is updated. Finally, the program prints the maximum value found in the array.
 
-**2. Package/module name:** org.example
+Package/module name: org.example
 
-**3. Class/file name:** FindMaxInArray.java
+ Class/file name: FindMaxInArray.java
 
-**4. Detailed Documentation:**
+Detailed Documentation:
 
    - **`main(String[] args)`:**
      - **Description:** This is the main method of the program, where execution begins. It initializes an integer array, finds the maximum value within the array, and prints the result.
@@ -26,7 +26,7 @@ This Java program finds the maximum value within a given integer array. It itera
        - For each element, it compares `n` with the current `max`. If `n` is greater than `max`, `max` is updated to `n`.
        - After iterating through all elements, prints the final value of `max`, which represents the maximum value found in the array.
 
-**5. Pseudo Code:**
+Pseudo Code:
 
 
 ```
@@ -42,7 +42,7 @@ This Java program finds the maximum value within a given integer array. It itera
 
 
 
-**Dependencies and Libraries:**
+Dependencies and Libraries:
 
 This program does not rely on any external libraries. It utilizes built-in Java functionalities for array manipulation and printing output. 
 

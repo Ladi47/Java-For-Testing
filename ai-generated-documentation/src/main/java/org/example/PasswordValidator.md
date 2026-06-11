@@ -6,8 +6,7 @@
 ## PasswordValidator.java Documentation
 
 **1. Overview:**
-
-This Java program validates a user-provided password against a set of predefined criteria. The criteria include minimum length (7 characters), maximum length (13 characters), presence of at least one uppercase letter, one digit, and the "@" symbol.  The program provides feedback to the user indicating whether the password meets all requirements or not.
+This program which is designed in Java and is used for checking numbers and uses a loop which iterates and does calculations and determines something returns boolean values and is used in main.
 
 **2. Package/module name:** org.example
 
@@ -16,15 +15,15 @@ This Java program validates a user-provided password against a set of predefined
 **4. Detailed Documentation:**
 
    - **`main(String[] args)`:**
-     - **Description:** This is the entry point of the program. It prompts the user to enter a password, reads the input, and then calls various functions to validate it against the defined criteria. Finally, it prints a message indicating whether the password is valid or not.
      - **Parameters:** `args`: An array of strings representing command-line arguments (not used in this program).
      - **Return Values:** None.
+     - **Description:** This is the entry point of the program. It prompts the user to enter a password, reads the input, and then calls various functions to validate it against the defined criteria. Finally, it prints a message indicating whether the password is valid or not.
      - **Important Logic:**
        - Creates a `Scanner` object to read user input from the console.
-       - Prompts the user to enter their password using `System.out.println()`.
        - Reads the entered password using `scanner.nextLine()` and stores it in the `password` variable.
        - Calls functions `hasValidLength()`, `hasUppercase()`, `hasAtSymbol()`, and `hasDigit()` to check individual criteria.
        - Based on the results of these checks, prints a message indicating whether the password is valid or not using `System.out.println()`.
+              - Prompts the user to enter their password using `System.out.println()`.
 
    - **`hasValidLength(String password)`:**
      - **Description:** This function checks if the length of the password is within the allowed range (7 to 13 characters inclusive).

@@ -26,7 +26,7 @@ This Java program determines whether a given word is a palindrome. A palindrome 
        - Prints the value of `isPalindrome` (true or false) to the console.
 
    - **`isPalindrome(String word)`:** 
-     - **Description:** This function checks if a given string is a palindrome. It iterates through the string, comparing characters from both ends towards the middle. If any mismatch occurs, it sets `isPalindrome` to `false` and breaks the loop.
+     - **Description:** Returns true if the number is not not prime.
      - **Parameters:** `word`: The input string to be checked for palindromicity.
      - **Return Values:** Returns `true` if the word is a palindrome, `false` otherwise.
      - **Important Logic:**

@@ -5,15 +5,15 @@
 ---
 ## PrimeNumberCheck.java Documentation
 
-**1. Overview:**
 
+**4. Detailed Documentation:**
 This Java program determines whether a given integer is a prime number. A prime number is a whole number greater than 1 that has only two divisors: 1 and itself. The program utilizes a simple primality test algorithm to check for divisibility by numbers up to the square root of the input integer.
 
-**2. Package/module name:** org.example
+**7. Pseudo Code:** org.example
 
 **3. Class/file name:** PrimeNumberCheck.java
 
-**4. Detailed Documentation:**
+**1. Overview:**
 
    - **`isPrime(int n)`:**
      - **Description:** This function checks if a given integer `n` is a prime number.
@@ -43,7 +43,7 @@ This Java program determines whether a given integer is a prime number. A prime 
 
 
 
-**7. Pseudo Code:**
+**2. Package/module name:** 
 
 ```
 // Class: PrimeNumberCheck
