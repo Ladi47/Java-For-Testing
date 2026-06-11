@@ -35,8 +35,7 @@ File name: ReverseString.md
 File name: SumAllNumbers.md
   - **Description:** This file contains documentation for the `SumAllNumbers` program, which calculates the sum of all integers from 1 to a user-specified number. It describes the iterative approach used to calculate the sum and provides code examples illustrating its implementation.
 
-File name: WordCounter.md
-  - **Description:** This file documents the `WordCounter` program, which counts the number of words in a given sentence. It explains how to split a string into individual words based on whitespace and demonstrates how to count the resulting words.
+
 
 
 

@@ -16,7 +16,7 @@ This Java program calculates the sum of all integers from 1 to a user-specified 
 **4. Detailed Documentation:**
 
    - **`main(String[] args)`:**
-     - **Description:** This is the entry point of the program. It prompts the user for input, calculates the sum of numbers, and prints the result.
+     - **Description:** This is the entry point of the program. It initializes a loop to iterate through numbers from 1 to 20 and calls conditional statements to determine the output for each number.
      - **Parameters:** `args`: An array of strings representing command-line arguments (not used in this program).
      - **Return Values:** None.
      - **Important Logic:**
@@ -41,13 +41,24 @@ This Java program calculates the sum of all integers from 1 to a user-specified 
 ```
 // Class: SumAllNumbers
 
-// Method: main()
-  1. Create a Scanner object to read from the console.
-  2. Prompt the user to enter an integer and store it in variable "n".
-  3. Initialize a variable "sum" to 0.
-  4. Iterate from 1 to "n":
-    - Add the current loop counter (i) to "sum".
-  5. Print the value of "sum".
+// Method: main(String[] args)
+  1. Set a sample word to the 'word' variable.
+  2. Initialize 'isPalindrome' to true.
+  3. Call the 'isPalindrome()' function, passing 'word' as an argument.
+  4. Print the value of 'isPalindrome'.
+
+// Method: isPalindrome(String word)
+  1. Initialize two index variables: 
+    - 'i' starting at 0 (beginning of the string).
+    - 'j' starting at the last index of the string ('word.length() - 1').
+  2. Loop while 'i' is less than 'j':
+    - Compare the characters at indices 'i' and 'j'.
+      - If they are different:
+        - Set 'isPalindrome' to false.
+        - Break out of the loop.
+    - Increment 'i' and decrement 'j'.
+  3. Return 'isPalindrome'.
+
 
 
 

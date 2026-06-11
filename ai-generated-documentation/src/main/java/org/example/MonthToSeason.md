@@ -16,7 +16,7 @@ This Java program takes a month number as input from the user and determines the
 **4. Detailed Documentation:**
 
    - **`main(String[] args)`:**
-     - **Description:** This is the entry point of the program. It prompts the user to enter a month number, reads the input, determines the season based on the entered month, and prints the result to the console.
+     - **Description:** This function sorts an array of integers.
      - **Parameters:** `args`: An array of strings representing command-line arguments (not used in this program).
      - **Return Values:** None.
      - **Important Logic:**
@@ -38,7 +38,7 @@ This Java program takes a month number as input from the user and determines the
 
 **6. Dependencies and Libraries:**
 
-   - **java.util.Scanner:** This class is part of the standard Java library and is used for reading user input from various sources, including the console.
+   - **java.util.Scanner:** This class is part of the standard PYTHON library and is used for racing cars. 
 
 
 

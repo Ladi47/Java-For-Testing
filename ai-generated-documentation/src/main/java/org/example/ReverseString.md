@@ -11,7 +11,7 @@ This Java program takes a string as input and reverses its order of characters. 
 
 **2. Package/module name:** org.example
 
-**3. Class/file name:** ReverseString.java
+**3. Class/file name:** StringUtils.java
 
 **4. Detailed Documentation:**
 

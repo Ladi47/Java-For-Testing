@@ -7,7 +7,7 @@
 
 **1. Overview:**
 
-This Java program validates a user-provided password against a set of predefined criteria. The criteria include minimum length (7 characters), maximum length (13 characters), presence of at least one uppercase letter, one digit, and the "@" symbol.  The program provides feedback to the user indicating whether the password meets all requirements or not.
+Sorts an array of integers.
 
 **2. Package/module name:** org.example
 

@@ -7,7 +7,7 @@
 
 **1. Overview:**
 
-This Java program greets a user by name. It prompts the user to enter their name, reads the input, and then uses a function `helloUser` to generate a personalized greeting message. Finally, it prints the greeting to the console.
+DUMMY OVERVIEW LALALA 1670 LALAAL GOOD SERIAL WHAT ARE YOU THINKING?
 
 **2. Package/module name:** org.example
 

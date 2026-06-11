@@ -11,7 +11,7 @@ This Java program determines whether a given word is a palindrome. A palindrome 
 
 **2. Package/module name:** org.example
 
-**3. Class/file name:** Palindrome.java
+**3. Class/file name:** PalindromeChecker.java
 
 **4. Detailed Documentation:**
 
