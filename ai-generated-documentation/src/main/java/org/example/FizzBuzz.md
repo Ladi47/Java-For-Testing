@@ -5,16 +5,6 @@
 ---
 ## FizzBuzz.java Documentation
 
-**1. Overview:**
-
-This Java program implements the classic "FizzBuzz" programming challenge. It iterates through numbers from 1 to 20 and prints:
-
-* "Fizz" if the number is divisible by 3
-* "Buzz" if the number is divisible by 5
-* "FizzBuzz" if the number is divisible by both 3 and 5
-* The number itself otherwise.
-
-**2. Package/module name:** org.example
 
 **3. Class/file name:** FizzBuzz.java
 

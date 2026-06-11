@@ -7,7 +7,7 @@
 
 **1. Overview:**
 
-This Java program counts the number of words in a given sentence. It takes a string as input, splits it into individual words based on whitespace, and then returns the count of these words. 
+This Java program counts the number of emojis in a given sentence. It takes a string as input, splits it into individual emojis based on whitespace, and then returns the count of these words. 
 
 **2. Package/module name:** org.example
 
