@@ -32,34 +32,5 @@ This Java program determines whether a given integer is a prime number. A prime 
        - Calls `isPrime(11)` to check if 11 is a prime number.
        - Prints the result returned by `isPrime(11)` using `System.out.println()`.
 
-**5. Key Variables and Data Structures:**
-
-   - None
-
-
-**6. Dependencies and Libraries:**
-
-   - **java.lang.Math:** Used for the `sqrt()` method to calculate the square root of a number. This is a standard Java library.
-
-
-
-**7. Pseudo Code:**
-
-```
-// Class: PrimeNumberCheck
-
-// Method: isPrime(n)
-  1. If n <= 1, return false.
-  2. For i = 2 to the square root of n:
-    - If n % i == 0, return false.
-  3. Return true.
-
-// Method: main()
-  1. Call isPrime(11).
-  2. Print the result returned by isPrime(11).
-
-
-
-```
 
 
